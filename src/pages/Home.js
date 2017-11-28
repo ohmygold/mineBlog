@@ -12,10 +12,10 @@ class Home extends Component {
           textAlign: 'center'
         }}>
           <div>
-            <h1>HI,I AM ZZ:D</h1>
+            <h1>HI,I AM 王伟</h1>
             <p>a front-end development</p>
             <RaisedButton style={{margin:'15px'}}
-            href='https://github.com/monkeyone1'
+            href='https://github.com/ohmygold'
              label="Contact Me" primary={true} />
           </div>
         

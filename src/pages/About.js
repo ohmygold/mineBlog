@@ -18,13 +18,13 @@ class About extends Component {
       },
       tooltip: {},
       xAxis: {
-          data: ['html','css','js','react','node','mongodb']
+          data: ['html','css','js','react','node','photoshop']
       },
       yAxis: {},
       series: [{
           name: '熟练度',
           type: 'bar',
-          data: [90, 95, 85, 80, 70, 60]
+          data: [90, 95, 65, 80, 70, 60]
       }]
     });
   }
@@ -44,8 +44,8 @@ class About extends Component {
         }}>
         
            <div style={{ margin:'40px'}}>
-             <h1>张振东</h1>
-             <p>一个幽默的前端程序员</p>
+             <h1>王伟</h1>
+             <p>一个幽默，踏实肯干的前端程序员</p>
 
 
            </div>

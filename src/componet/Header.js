@@ -19,7 +19,7 @@ class Header extends Component {
     }
     return (
       <header>
-        <AppBar    title={<span>ZZ:D@{this.props.title.slice(1) ? this.props.title : 'home'}</span>}
+        <AppBar    title={<span>王伟@{this.props.title.slice(1) ? this.props.title : 'home'}</span>}
         onLeftIconButtonTouchTap={this.handleGo.bind(this,-1)}
         iconElementLeft={<IconButton><Left/></IconButton>}
         iconElementRight={<IconButton><Right/></IconButton>}

@@ -7,7 +7,7 @@ export default class NavBar extends React.Component{
   render(){
     return(
       <div className='navbar'>
-        <h1>ZZ:D@{this.props.title.slice(1) ? this.props.title.slice(1) : 'home'}</h1>
+        <h1>王伟@{this.props.title.slice(1) ? this.props.title.slice(1) : 'home'}</h1>
 
         
         <Link to='/'><img style={{width:'200px'}} src={q} alt="q"/></Link>

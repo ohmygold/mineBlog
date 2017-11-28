@@ -1,18 +1,18 @@
 ## 个人信息
 
-  **张振东**   男  1994.11.26       
+  **王伟**   男  1992.04.01       
 
- **学校:沈阳化工大学  学历: 本科    专业: 计算机科学与技术**
+ **学校:西南交通大学希望学院  学历: 本科    专业: 土木工程**
 
-GitHub: https://github.com/monkeyone1
+GitHub: https://github.com/ohmygold
 
 ##  联系方式
 
-QQ/微信 : 793472281
+QQ/微信 : 499452621
 
-手机: 15998270393	
+手机: 15801308941	
 
- E-mail : startzzd@163.com
+ E-mail : 499452621@qq.com
 
 ## 专业技能
 
@@ -26,13 +26,11 @@ QQ/微信 : 793472281
 
 - 了解 node.js  sass/less  babel  webpack等前端工具
 
-- 有扎实的Java 基础和良好的面向对象思想 熟悉安卓原生开发
-
 - 熟悉GIt/SVN 代码管理工具
 
 - 熟练使用  vscode / atom /Photoshop 等软件
 
-- 其他:掌握Mac/linux系统操作 ,熟悉基本的 MySql mongdb数据库使用
+- 其他:掌握windows/linux系统操作 ,熟悉基本的 MySql mongdb数据库使用
 
   ​
 
